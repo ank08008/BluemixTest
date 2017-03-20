@@ -1,5 +1,5 @@
 applications:
-- name: BluemixTest
+- name: rxnameapp
   random-route: true
   memory: 1G
   instances: 1
