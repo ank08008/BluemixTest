@@ -1,5 +1,6 @@
 applications:
-- name: unwntapp
+- name: BluemixTest
+  host: ubmxapp
   memory: 1G
   instances: 1
   path: BluemixTest.war
