@@ -1,6 +1,6 @@
 applications:
 - name: BluemixTest
-  host: ubmxapp
+  random-route: true
   memory: 1G
   instances: 1
   path: BluemixTest.war
