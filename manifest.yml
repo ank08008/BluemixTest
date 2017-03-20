@@ -1,0 +1,8 @@
+applications:
+- name: BluemixTest
+  memory: 1G
+  instances: 1
+  path: BluemixTest.war
+  buildpack: https://github.com/ank08008/BluemixTest.git
+  stack: cflinuxfs2
+
